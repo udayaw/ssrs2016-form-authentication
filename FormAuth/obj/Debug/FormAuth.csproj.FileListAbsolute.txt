@@ -1,0 +1,11 @@
+D:\Nable\Little Tasks\SecurityExtension2012\FormAuth\FormAuth\bin\Debug\FormAuth.dll
+D:\Nable\Little Tasks\SecurityExtension2012\FormAuth\FormAuth\bin\Debug\FormAuth.pdb
+D:\Nable\Little Tasks\SecurityExtension2012\FormAuth\FormAuth\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+D:\Nable\Little Tasks\SecurityExtension2012\FormAuth\FormAuth\obj\Debug\FormAuth.dll
+D:\Nable\Little Tasks\SecurityExtension2012\FormAuth\FormAuth\obj\Debug\FormAuth.pdb
+D:\Nable\Little Tasks\SecurityExtension2012\FormAuth\FormAuth\obj\Debug\FormAuth.csprojResolveAssemblyReference.cache
+D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\bin\Debug\FormAuth.dll
+D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\bin\Debug\FormAuth.pdb
+D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\obj\Debug\FormAuth.dll
+D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\obj\Debug\FormAuth.pdb

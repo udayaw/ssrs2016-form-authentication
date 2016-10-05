@@ -1,0 +1,11 @@
+﻿CREATE DATABASE SSRSConfig;
+
+
+CREATE TABLE SSRSUser(
+	UserName	VARCHAR(50) NOT NULL PRIMARY KEY,
+	Password	VARCHAR(100),
+	IsActive	BIT
+);
+
+
+insert into SSRSUser values('admin', CONVERT(NVARCHAR(128),HASHBYTES('SHA1', 'qwe'), 2), 1)
