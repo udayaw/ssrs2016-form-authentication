@@ -16,7 +16,7 @@ namespace FormAuth
     {
 
         private static string m_adminUserName = "";
-        public Authorization()
+        static Authorization()
         {
             InitializeMaps();
         }

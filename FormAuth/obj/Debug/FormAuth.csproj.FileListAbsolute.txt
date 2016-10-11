@@ -9,3 +9,8 @@ D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\bin\Debug\FormAuth
 D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
 D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\obj\Debug\FormAuth.dll
 D:\Nable\Little Tasks\SecurityExtension2016\FormAuth\FormAuth\obj\Debug\FormAuth.pdb
+D:\My Projects\GitHub\ssrs2016-form-authentication\FormAuth\bin\Debug\FormAuth.dll
+D:\My Projects\GitHub\ssrs2016-form-authentication\FormAuth\bin\Debug\FormAuth.pdb
+D:\My Projects\GitHub\ssrs2016-form-authentication\FormAuth\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+D:\My Projects\GitHub\ssrs2016-form-authentication\FormAuth\obj\Debug\FormAuth.dll
+D:\My Projects\GitHub\ssrs2016-form-authentication\FormAuth\obj\Debug\FormAuth.pdb
